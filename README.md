@@ -42,13 +42,13 @@ src/
 
 ## 🖼️ サイト画面 / Screenshots
 
-![トップページ](../luxury-housing-malaysia/src/assets/luxuryHousingMalaysiaPF.png alt="トップページ Screenshot")
+![トップページ Screenshot](./src/assets/luxuryHousingMalaysiaPF.png)
 
 ---
 
 ## 🌐 公開サイト / Live Demo
 
-[MalaysiaHousing ポートフォリオサイト](https://malaysiahousing.vercel.app)
+[MalaysiaHousing ポートフォリオサイト](https://malaysia-housing-oam3.vercel.app/)
 
 ---
 
